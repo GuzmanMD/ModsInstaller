@@ -20,10 +20,10 @@ mods_{juego}/archivos_{juego}
   
 ____________________________________  
 If you clone the repository and want to change a game you've to change the api names, line 10-14:  
-# ---------------- Configuración de descarga ---------------- #  
+
 GITHUB_USER = "GuzmanMD" < change  
 GITHUB_REPO = "ModsInstaller" < change  
-# ---------------- Configuración de descarga ---------------- #  
+ 
   
 Also change line 132, where the names of the games are and the folder the app will look for to download the mods.zip and decompress it.
   juegos = [("Lethal Company", "mods_lethal"), ("REPO", "mods_repo"), ("Phasmo", "mods_phasmo")]
