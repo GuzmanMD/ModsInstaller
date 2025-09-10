@@ -1,9 +1,11 @@
 # ModsInstaller  
-_________________________________________________________________________  
+______________________________________________________________________________________  
 
+Esta aplicación se usa para instalar los mods de cada juego (hay tres juegos definidos)
+sin tener que hacer nada, tu abres el .exe, seleccionas el juego, esperas y listo mods
+instalados sin tener que hacer nada.
 
-
-
+_______________________________________________________________________________________
 
 
 
